@@ -1,4 +1,4 @@
-![head](https://github.com/feightwywx/feightwywx/blob/59620f8dd4384e8989d11f464fb7d8e0462337ed/91006224_p0_gh.jpg)
+[![head](https://github.com/feightwywx/feightwywx/blob/1b836fbf49685a51e49a44aca2f91412a7ad43cc/91006224_p0_gh.jpg)](https://github.com/feightwywx/)
 
 # .direwolf
 
