@@ -2,7 +2,7 @@
 
 # .direwolf
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=feightwywx&show_icons=true&title_color=FF9400&icon_color=FF9400)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=feightwywx&show_icons=true&title_color=ff9b19&icon_color=ff9b19)](https://github.com/anuraghazra/github-readme-stats)
 
 *(a.k.a. dotdirewolf/0x00F8/feightwywx)*
 
@@ -14,7 +14,7 @@ Contact: [canis@direcore.xyz](mailto:canis@direcore.xyz)
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feightwywx&hide=visual%20basic&layout=compact&title_color=FF9400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feightwywx&hide=visual%20basic&layout=compact&title_color=ff9b19)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm learning web development!
 
