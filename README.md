@@ -14,7 +14,7 @@ Contact: [canis@direcore.xyz](mailto:canis@direcore.xyz)
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feightwywx&hide=visual%20basic&layout=compact&title_color=ff9b19)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feightwywx&hide=visual%20basic&layout=compact&title_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm learning web development!
 
