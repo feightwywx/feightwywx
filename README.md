@@ -21,7 +21,7 @@ I'm learning web development!
 ## What I have and love ❤
 
 - HP OMEN 15-dc1064TX (Upgraded to 16GB RAM and 1TB NVMe storage), my main laptop
-- M1 MacBook Pro (returned, loved but hard to afford💦)
+- MacBook Air 13" 2018, for more portable use
 - iPad Pro 11 (2018), for taking notes, drawing furry stuff and playing rhythm games
 - Fujifilm X-S10 with a few lens, for photographing
 
