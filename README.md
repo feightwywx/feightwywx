@@ -14,16 +14,19 @@ Contact: [canis@direcore.xyz](mailto:canis@direcore.xyz)
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feightwywx&hide=visual%20basic&layout=compact&title_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feightwywx&exclude_repo=aspnet-exp&hide=visual%20basic&layout=compact&title_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=feightwywx&layout=compact&title_color=24292e)](https://wakatime.com/@feightwywx)
 
 I'm learning web development!
 
 ## What I have and love ❤
 
-- HP OMEN 15-dc1064TX (Upgraded to 16GB RAM and 1TB NVMe storage), my main laptop
-- MacBook Air 13" 2018, for more portable use
+- MacBook Air 13" M1, with 16GB RAM
+
+- HP OMEN 15-dc1064TX (Upgraded to 16GB RAM and 1TB NVMe storage)
+
 - iPad Pro 11 (2018), for taking notes, drawing furry stuff and playing rhythm games
-- Fujifilm X-S10 with a few lens, for photographing
 
 ## Projects
 
