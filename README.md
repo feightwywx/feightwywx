@@ -9,8 +9,6 @@
 
 🐺 Nice to meet you!
 
-I'm a college student from China, major in IMIS. Speak Chinese or English.
-
 Contact: [canis@direcore.xyz](mailto:canis@direcore.xyz)
 
 ## Languages
@@ -20,16 +18,6 @@ Contact: [canis@direcore.xyz](mailto:canis@direcore.xyz)
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=feightwywx&layout=compact&title_color=241e1b&theme=light)](https://wakatime.com/@feightwywx#gh-light-mode-only)
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=feightwywx&layout=compact&title_color=ff9b19&border_color=453227&theme=dark)](https://wakatime.com/@feightwywx#gh-dark-mode-only)
-
-I'm learning web development!
-
-## What I have and love ❤
-
-- MacBook Air 13" M1, with 16GB RAM
-
-- HP OMEN 15-dc1064TX (Upgraded to 16GB RAM and 1TB NVMe storage)
-
-- iPad Pro 11 (2018), for taking notes, drawing furry stuff and playing rhythm games
 
 ## Projects
 
