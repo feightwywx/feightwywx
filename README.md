@@ -5,7 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=feightwywx&show_icons=true&title_color=ff9b19&icon_color=ff9b19&theme=light&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=feightwywx&show_icons=true&title_color=ff9b19&icon_color=ff9b19&border_color=453227&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-*(a.k.a d0td1wf/0x00F8/feightwywx)*
+*(a.k.a. d0td1wf/0x00F8/feightwywx)*
 
 🐺 Nice to meet you!
 
