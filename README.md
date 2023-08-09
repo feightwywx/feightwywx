@@ -1,5 +1,3 @@
-[![head](https://github.com/feightwywx/feightwywx/blob/1b836fbf49685a51e49a44aca2f91412a7ad43cc/91006224_p0_gh.jpg)](https://github.com/feightwywx/)
-
 # .direwolf
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=feightwywx&show_icons=true&title_color=ff9b19&icon_color=ff9b19&theme=light&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
